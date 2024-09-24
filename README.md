@@ -3,7 +3,7 @@
   # Hi 👋, I'm Nitin
 </div>
 
-  🚀 **Enthusiastic Electronics Engineering Student** passionate about web development, with expertise in **NodeJS** and a strong background in developing efficient and scalable web applications.
+  🚀 **Software Engineer eager to engineer the future.** Passionate about web development, with expertise in **NodeJS** and a strong background in developing efficient and scalable web applications.
 
   💡 I thrive in solving complex problems and stay dedicated to keeping up with emerging technologies. With a mindset geared toward innovation, I enjoy working in dynamic environments that challenge me to push the boundaries of what's possible.
 
